@@ -1,1 +1,2 @@
-prit("Name")
+print("Name")
+print("Ankit")
